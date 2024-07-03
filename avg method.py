@@ -4,9 +4,10 @@ Type "help", "copyright", "credits" or "license()" for more information.
 >>> a=50
 >>> b=80
 >>> c=100
+  #for whole number
 >>> d=(a+b+c//3)
 >>> print(d)
-163
+  #for decimal number
 >>> e=(a+b+c)/3
 >>> print(e)
-76.66666666666667
+
