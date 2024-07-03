@@ -8,7 +8,3 @@ print(b)
         
         
         
-    
-    
-# b=list(i)
-# print(b)
