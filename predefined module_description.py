@@ -8,11 +8,6 @@ sqrt(625)
 25.0
 pow(4,2)
 16.0
-help(math)
-Traceback (most recent call last):
-  File "<pyshell#5>", line 1, in <module>
-    help(math)
-NameError: name 'math' is not defined. Did you forget to import 'math'?
 help('math')
 Help on built-in module math:
 
