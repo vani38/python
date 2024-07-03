@@ -4,10 +4,6 @@ Type "help", "copyright", "credits" or "license()" for more information.
 >>> b=30
 >>> c=40
 >>> x=sum(a,b,c)
-Traceback (most recent call last):
-  File "<pyshell#3>", line 1, in <module>
-    x=sum(a,b,c)
-TypeError: sum() takes at most 2 arguments (3 given)
 >>> x=(a+b+c)
 >>> print(x)
 120
